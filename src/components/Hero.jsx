@@ -18,7 +18,7 @@ const Hero = () => {
             Hi, <br className='sm:block hidden' /> I'm <span className='text-[#915EFF]'>Hemashree M S</span>
           </h1>
           <p className={`${styles.heroSubText} mt-8 text-white-100`}>
-          I love to build web applications.<br className='sm:block hidden' /> I am looking for more opportunities to grow and upskill myself.
+          I love learning new technologies.<br className='sm:block hidden' />
           </p>
           <a href="#projects" smooth duration={500} className='group bg-gradient-to-r from-purple-500 to-purple-800 cursor-pointer w-fit flex items-center text-lg h-10 px-6 py-3 my-12 rounded-md hover:scale-105 duration-500'>Portfolio <span className='group-hover:rotate-90 duration-500'><FaLongArrowAltRight className='ml-2'/></span></a>
         </div>

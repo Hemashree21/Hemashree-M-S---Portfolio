@@ -43,16 +43,7 @@ const Footer = () => {
           >
             <HiOutlineMail size={20} />
           </a>
-          
-          <a 
-            href="https://instagram.com/hemashree_2106" 
-            target="_blank" 
-            rel="noreferrer" 
-            className="text-white bg-[#1f1f2e] p-3 rounded hover:bg-[#e1306c] transition-colors"
-            aria-label="Instagram"
-          >
-            <FaInstagram size={20} />
-          </a>
+        
         </div>
         
         {/* Copyright section with flex layout */}

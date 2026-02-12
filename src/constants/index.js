@@ -56,19 +56,19 @@ export const navLinks = [
 
 const services = [
   {
-    title: "Web Developer",
+    title: "Full Stack Developer",
     icon: web,
   },
   {
-    title: "Pitch Deck Designer",
+    title: "3x Hackathon Winner",
     icon: mobile,
   },
   {
-    title: "Frontend Developer",
+    title: "Adventurer",
     icon: frontend,
   },
   {
-    title: "Freelancer",
+    title: "Team Player",
     icon: creator,
   },
 ];
@@ -223,6 +223,25 @@ const experiences = [
       "Developed a scalable full-stack Event Management web application for Samarthanam Trust, with a strong focus on accessibility features for visually impaired users.",
       "Selected among the top 4 teams in Morgan Stanley Code to Give 2025; recognized as one of the top 144 finalists out of 5,000+ participants."
     ],
+  },
+  {
+    title: "Crosswalk - Special Mention",
+    company_name: "Salesforce",
+    icon: salesforce,
+    iconBg: "#ffffff",
+    date: "Dec 2025 - Jan 2026",
+    points: [
+      "Developed PayPath, a unified student financial management platform using React, Node.js, Express, and MySQL, featuring real-time dashboards, scholarship tracking, and proactive alerts for financial aid eligibility.",
+      "Advanced to Top 5 finals at Salesforce Crosswalk Hackathon and received special mention for nearly securing 2nd place, presenting to industry judges after a month-long collaborative development with cross-functional teams."
+    ]
+  },
+  {
+    title: "Spring Technology Analyst",
+    company_name: "Morgan Stanley",
+    icon: ms,
+    iconBg: "#003366",
+    date: "Jan 2026 - Present",
+    points: []
   },
 ];
 
